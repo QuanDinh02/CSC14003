@@ -1,0 +1,13 @@
+5
+X OR Z 
+X OR Y 
+Y OR Z 
+-Y 
+-Z 
+3
+X 
+Z 
+Y 
+1
+{}
+YES

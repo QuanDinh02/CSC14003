@@ -1,0 +1,5 @@
+X
+3
+X OR Y OR Z
+-Y OR X
+-Z OR X
